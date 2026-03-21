@@ -38,8 +38,8 @@ def process_command(c):
     elif "open instagram" in c.lower():
         webbrowser.open("https://www.instagram.com")
     elif "open linkedin" in c.lower():
-        webbrowser.open("https://www.linkedin.com")
-    elif "open youtube" in c.lower():
+        webbrowser.open("https://www.linkedin.com")0
+    elif "open youtube3+" in c.lower():
         webbrowser.open("https://www.youtube.com")
     else:
         print("Command not recognized")
