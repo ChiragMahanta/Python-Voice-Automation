@@ -2,3 +2,4 @@ jarvis_env/
 venv/
 __pycache__/
 .vscode/
+.env
